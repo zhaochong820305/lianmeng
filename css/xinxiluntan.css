@@ -1,0 +1,100 @@
+﻿.con1xx{
+	width: 1140px;
+	margin:10px auto;
+	position: relative;
+	overflow: hidden;
+}
+.list1p1 {
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    background: #2788ce;
+    color: white;
+    font-size:20px;
+}
+.list1{border-bottom: 2px #2788ce solid;}
+.list1p1right{float: right; color: #2788ce; padding-top:10px;}
+.xinwen{padding:30px 30px 30px 30px;width: 1078px;	margin:0 auto; border:1px solid #ccc;height:590px;}
+.xinwen li{width:515px; float:left;margin-right:20px;margin-bottom:20px; }
+.xinwen li img{float:left;margin-right:15px;}
+.newtitle{ color:#222; font-size:16px; line-height:30px;}
+.shijian{color:#999; font-size:12px; padding-top:20px; }
+
+.list1p2 {
+    font-size: 20px;
+    font-weight: 700;
+    width: 240px;
+    margin-left: 20px;
+    background: #2788ce;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.banners{width:1140px; margin: 0 auto;}
+.con1detailxx{width:734px;float:left;}
+.maln_r_boxxx{width:386px; float:right;}
+
+/*现场报道*/
+/*jingcai*/
+.cenhuitljbjc{  margin:0 auto; width:100%; background:white;padding-top:30px;  clear:both;padding-bottom:10px;}
+.jc{ padding-left:22px; padding-top:22px;}
+.jingcaisj { border-bottom:2px solid #fdaf00; width:100px; padding-left:20px; color:#222;}
+.jingcai{margin:0 auto; width:1140px;     margin-bottom:20px; clear:both;}
+.jingcaisj1 { width:664px; color:#222;height:38px; }
+.jcsj{  border-bottom:2px solid #fdaf00; width:100px;float:left; padding-left:20px; color:#222;font-size:20px;height:38px;}
+.jcsjrig {border-bottom:2px solid #3fb3fb; width:540px; float:left;height:38px;
+}
+.lm_button{width:20px; height:130px;position: relative;z-index: 6666}
+
+/*精彩视频*/
+.lm_bjjc{ width:1140px;    margin-bottom:30px;  margin-top:20px;   margin:0 auto;  }
+.lm_mainjc{ width:1080px; padding:20px 5px; height:200px;overflow: hidden;}
+.lm_mainjc > ul {width: 500%;position: relative;}
+.lm_mainjc > ul > li{width: 1110px;float:left;height: 180px;}
+.lm_mainjc > ul > li a{float:left;position: relative;border:solid 1px #ccc;width: 205px;height:148px;font-size:12px; color:#2788ce; text-align:center;margin-right: 5px;margin-left: 5px;float: left;}
+.lm_mainjc img{ width:205px;height: 148px;top: 0;left: 0;bottom: 0;right: 0;overflow: hidden;margin: auto;}
+
+ /*论坛背景*/
+.con1detailbtxx{width:734px;float:left;border:1px #ebebeb solid;	border-top: 2px #2788ce solid;}
+.con1detailbtxx p{line-height:36px; font-size:16px;padding:30px 22px 4px 22px;}
+.con1detailbtxx2{width:384px;border:1px #ebebeb solid;	border-top: 2px #2788ce solid;}
+.con1detailbtxx2 ul{padding-left:15px;padding-top:30px;}
+.con1detailbtxx2 ul li {width:100%;line-height:36px;font-size:16px;margin-bottom:13px;}
+.con1detailbtxx2 ul li .left{font-weight:900;float:left;}
+.con1detailbtxx2 ul li .right{display:inline-block;}
+ /*论坛目的*/
+.luntanmudi{width:1140px;  float:right;margin-top:30px;}
+.luntanmudir{width:1095px;border:1px #ebebeb solid;	border-top: 2px #2788ce solid;padding:20px 20px 20px 20px;}
+.luntanmudir .blue12s{font-size:16px;color: #2788ce;line-height:36px; font-weight:700; }
+.luntanmudir p {font-size:16px;color:#222;line-height:36px;}
+
+/*论坛推广与媒体报道*/
+.luntanmudir2{width:1095px;border:1px #ebebeb solid;	border-top: 2px #2788ce solid;padding:20px 20px 20px 20px;}
+.luntanmudir2 p {font-size:18px;color:#222;line-height:36px;}
+/*会议议程*/
+.luntanmudir3{width:1095px;border-top: 2px #2788ce solid;padding:20px 20px 20px 20px;}
+.luntanmudir3 .blue12s{font-size:16px;color: #2788ce;line-height:36px; font-weight:700; }
+.luntanmudir3 p {font-size:16px;color:#222;line-height:36px;}
+/*拟邀嘉宾*/
+.niyaojiabin{width:1095px;border:1px #ebebeb solid;	border-top: 2px #2788ce solid;padding:20px 20px 20px 20px; height:1180px;}
+.niyaojiabin ul li{padding-left:20px; padding-top:20px;float:left;width:520px; height:210px;}
+.nyjbleft{float:left;}
+.nyjbright{float:left;width:300px; padding-left:15px;padding-right:15px;padding-top:100px; }
+.nyjbright p{font-size:24px;color:#222;}
+.nyjbright span{font-size:18px;color:#535353;}
+.trbg{background-color:#e4edf3;}
+td{padding-left:15px;}
+
+
+ /*论坛目的*/
+.daguobeijing{width:720px;  float:left;margin-top:30px;}
+.daguobeijing{width:675px;border:1px #ebebeb solid;	border-top: 2px #2788ce solid;padding:20px 20px 20px 20px;}
+.daguobeijing p {font-size:16px;color:#222;line-height:36px;}
+
+.luntanmudirdg{width:720px; }
+ .blue12sdg{font-size:24px;color:#004ba8;line-height:62px; font-weight:700; }
+

@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>全国工业和信息化科技成果转化联盟</title>
+	<link rel="stylesheet" href="css/swiper.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script type='text/javascript' src='js/jquery-2.1.3.min.js'></script>
+	<script type='text/javascript' src='js/swiper.min.js'></script>
+</head>
+<body>
+	<div class="navbanner"></div>
+	<div class="nav1">
+		<ul class="navul">
+			<li class="speli"><a href="">首页</a></li>
+			<li><a href="">关于联盟</a></li>
+			<li><a href="">联盟动态</a></li>
+			<li><a href="">行业动态</a></li>
+			<li><a href="">行业专家</a></li>
+			<li><a href="">成员发布</a></li>
+			<li><a href="">资源共享</a></li>
+			<li><a href="">申请加入</a></li>
+		</ul>
+	</div>
+	<div class="con1">
+		<div class="con1left">
+			<h2>全国工业和信息化<br>科技成果转化联盟</h2>
+			<ul>
+				<li><a href="">&loz;&nbsp;联盟简介<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;联盟组织机构<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;联盟章程<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;申请加入<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;联盟大事记<span class="arrow"></span></a></li>
+				<li><a href="" class="noborder">&loz;&nbsp;理事长寄语<span class="arrow"></span></a></li>
+				<li class="spli2">&nbsp;联盟智能平台</li>
+				
+				<li><a href="">&loz;&nbsp;联盟秘书处<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;制造业创新中心<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;科技成果转化基地<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;科技成果评价中心<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;政策研究中心<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;创新服务中心<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;联盟宣贯中心<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;联盟会员中心<span class="arrow"></span></a></li>
+				<li><a href="">&loz;&nbsp;科技成果大会<span class="arrow"></span></a></li>
+			</ul>
+		</div>
+		<div class="con1mid">
+			<div class="swiper-container wrapperdiv">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<a href=""><img src="images/1.jpg"><span class="tspan">智能一体化会议开始了！</span></a>
+					</div>
+					<div class="swiper-slide">
+						<a href=""><img src="images/1.jpg"><span class="tspan">智能一体化会议又开始了！</span></a>
+					</div>
+				</div>
+				<div class="swiper-pagination"></div>
+			</div>
+			<div id='tabcon'>
+				<ul class="titleli">
+					<li>联盟动态</li>
+					<li>联盟公告</li>
+					<li>联盟活动</li>
+					<li>成员发布</li>
+				</ul>
+				<div class="ulcon">
+					<ul class="Ninul">
+		                <li class="w300">
+		                    <a href="/news/201610/351358.html"  target="_blank">
+		                        2016年工业转型升级（中国制造2025）重点项目指南正式发布
+		                    </a>
+		                    <span class="spanr date-w">10.29</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351358.html"  target="_blank">
+		                        2016年工业转型升级（中国制造2025）重点项目指南正式发布
+		                    </a>
+		                    <span class="spanr date-w">10.29</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351453.html"  target="_blank">
+		                        国家安全监管总局办公厅关于印发安全生产信息化领域10项技术规...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351452.html"  target="_blank">
+		                        国家能源局综合司关于下达第二批火电灵活性改造试点项目的通知...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351451.html"  target="_blank">
+		                        国家能源局综合司关于同意印发《京津唐电网电力用户与发电企业直...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                
+		                <li class="w300">
+		                    <a href="/news/201610/351449.html"  target="_blank">
+		                        国家能源局 环境保护部关于印发2016年各省（区、市）煤电超低排放...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351448.html"  target="_blank">
+		                        国家能源局关于推动东北地区电力协调发展的实施意见 国能电力
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351447.html"  target="_blank">
+		                        政府信息公开目录---国家能源局---国家能源局综合司关于申报
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351446.html"  target="_blank">
+		                        政府信息公开目录---国家能源局
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351444.html"  target="_blank">
+		                        国家能源局综合司关于下达火电灵活性改造试点项目的通知 
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+				    </ul>
+				    <ul class="Ninul">
+		                <li class="w300">
+		                    <a href="/news/201610/351358.html"  target="_blank">
+		                        2015年工业转型升级（中国制造2025）重点项目指南正式发布
+		                    </a>
+		                    <span class="spanr date-w">10.29</span>
+		                </li>
+		                
+		                <li class="w300">
+		                    <a href="/news/201610/351453.html"  target="_blank">
+		                        国家安全监管总局办公厅关于印发安全生产信息化领域10项技术规...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351452.html"  target="_blank">
+		                        国家能源局综合司关于下达第二批火电灵活性改造试点项目的通知...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351451.html"  target="_blank">
+		                        国家能源局综合司关于同意印发《京津唐电网电力用户与发电企业直...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351450.html"  target="_blank">
+		                        国家能源局---锦苏直流等八项典型电网工程投资成效监管报告
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351449.html"  target="_blank">
+		                        国家能源局 环境保护部关于印发2016年各省（区、市）煤电超低排放...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351448.html"  target="_blank">
+		                        国家能源局关于推动东北地区电力协调发展的实施意见 国能电力
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351447.html"  target="_blank">
+		                        政府信息公开目录---国家能源局---国家能源局综合司关于申报
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351446.html"  target="_blank">
+		                        政府信息公开目录---国家能源局
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351444.html"  target="_blank">
+		                        国家能源局综合司关于下达火电灵活性改造试点项目的通知 
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+				    </ul>
+				    <ul class="Ninul">
+		                <li class="w300">
+		                    <a href="/news/201610/351358.html"  target="_blank">
+		                        2017年工业转型升级（中国制造2025）重点项目指南正式发布
+		                    </a>
+		                    <span class="spanr date-w">10.29</span>
+		                </li>
+		                
+		                <li class="w300">
+		                    <a href="/news/201610/351453.html"  target="_blank">
+		                        国家安全监管总局办公厅关于印发安全生产信息化领域10项技术规...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351452.html"  target="_blank">
+		                        国家能源局综合司关于下达第二批火电灵活性改造试点项目的通知...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351451.html"  target="_blank">
+		                        国家能源局综合司关于同意印发《京津唐电网电力用户与发电企业直...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351450.html"  target="_blank">
+		                        国家能源局---锦苏直流等八项典型电网工程投资成效监管报告
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351449.html"  target="_blank">
+		                        国家能源局 环境保护部关于印发2016年各省（区、市）煤电超低排放...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351448.html"  target="_blank">
+		                        国家能源局关于推动东北地区电力协调发展的实施意见 国能电力
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351447.html"  target="_blank">
+		                        政府信息公开目录---国家能源局---国家能源局综合司关于申报
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351446.html"  target="_blank">
+		                        政府信息公开目录---国家能源局
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351444.html"  target="_blank">
+		                        国家能源局综合司关于下达火电灵活性改造试点项目的通知 
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+				    </ul>
+				    <ul class="Ninul">
+		                <li class="w300">
+		                    <a href="/news/201610/351358.html"  target="_blank">
+		                        2018年工业转型升级（中国制造2025）重点项目指南正式发布
+		                    </a>
+		                    <span class="spanr date-w">10.29</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351358.html"  target="_blank">
+		                        2016年工业转型升级（中国制造2025）重点项目指南正式发布
+		                    </a>
+		                    <span class="spanr date-w">10.29</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351453.html"  target="_blank">
+		                        国家安全监管总局办公厅关于印发安全生产信息化领域10项技术规...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351452.html"  target="_blank">
+		                        国家能源局综合司关于下达第二批火电灵活性改造试点项目的通知...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351451.html"  target="_blank">
+		                        国家能源局综合司关于同意印发《京津唐电网电力用户与发电企业直...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351450.html"  target="_blank">
+		                        国家能源局---锦苏直流等八项典型电网工程投资成效监管报告
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351449.html"  target="_blank">
+		                        国家能源局 环境保护部关于印发2016年各省（区、市）煤电超低排放...
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351448.html"  target="_blank">
+		                        国家能源局关于推动东北地区电力协调发展的实施意见 国能电力
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                <li class="w300">
+		                    <a href="/news/201610/351447.html"  target="_blank">
+		                        政府信息公开目录---国家能源局---国家能源局综合司关于申报
+		                    </a>
+		                    <span class="spanr date-w">10.28</span>
+		                </li>
+		                
+				    </ul>
+				</div> 
+			</div>
+		</div>
+		
+		<script type='text/javascript'>
+			var mySwiper = new Swiper('.wrapperdiv', {
+				pagination : '.swiper-pagination',
+				autoplay : 3000,
+	            loop : true,
+	            speed:800
+        	})
+        	$('.titleli li').mouseover(function() {
+        		var index = $(this).index();
+        		$(this).addClass('act').siblings('li').removeClass('act');
+        		$('.ulcon .Ninul').eq(index).addClass('act').siblings('.Ninul').removeClass('act');
+        	}).eq(0).mouseover()
+		</script>
+		<div class="con1right">
+			<h2>今日头条</h2>
+			<ul class="toutiao">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				
+			</ul>
+			<h2 style="margin-top: 10px">成员中心</h2>
+			<div class="hydiv">
+				<ul class="huiyuan">
+					<li>
+						<img src="images/logo1.jpg"><img src="images/logo2.jpg">
+					</li>
+					<li>
+						<img src="images/logo3.jpg"><img src="images/logo4.jpg">
+					</li>
+					<li>
+						<img src="images/logo5.jpg"><img src="images/logo6.jpg">
+					</li>
+					
+				</ul>
+				<ul class="hy">
+					<li><a href="">科技成果评价中心科技成果评价中心</a></li>
+					<li><a href="">科技成果评价中心科技成果评价中心</a></li>
+					<li><a href="">科技成果评价中心科技成果评价中心</a></li>
+					<li><a href="">科技成果评价中心科技成果评价中心</a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="con2"><a href=""><img src="images/3.jpg" alt=""></a></div>
+	<div class="con3">
+		<div class="con3left">
+			<div class="titp"><h3>科技成果评价</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+		<div class="con3left t2mid">
+			<div class="titp"><h3>政策解析</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+		<div class="con3right">
+			<div class="titp"><h3>行业专家</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul ulimg">
+				<li><a href=""><img src="images/4.jpg" alt=""><b>王东</b><br>科技成果评价中心成果评科技成果评价中心成果评科技成果评价中心成果评</a></li>
+				<li><a href=""><img src="images/4.jpg" alt=""><b>王东</b><br>科技成果评价中心成果评科技成果评价中心成果评科技成果评价中心成果评</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="con3">
+		<div class="con3left">
+			<div class="titp"><h3>制造业创新中心</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+		<div class="con3left t2mid">
+			<div class="titp"><h3>产业创新服务</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+		<div class="con3right">
+			<div class="titp"><h3>专家观点</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="con2"><a href=""><img src="images/5.jpg" alt=""></a><a href=""><img src="images/6.jpg" style="float: right"></a></div>
+	<div class="con3 con5" style="margin-top:0">
+		<div class="con5left">
+			<div class="titp"><h3>科技成果转化基地</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+		<div class="con5left t5mid">
+			<div class="titp"><h3>政策大讲堂</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+		<div class="con5right">
+			<div class="titp"><h3>创新创业大赛</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心成果评</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+				<li><a href="">科技成果评价中心</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="btdiv">
+		<div class="infodiv1">
+			<p class="yqlj"><strong>友情链接</strong></p>
+			<p class="ljp">
+				<select onchange="window.location=this.value">
+					<option value="">政府机构</option>
+					<option value="http://www.gongkong.com">用户</option>
+				</select>
+				<select onchange="window.location=this.value">
+					<option value="">机构组织</option>
+					<option value="http://www.gongkong.com">用户</option>
+				</select>
+				<select onchange="window.location=this.value">
+					<option value="">合作媒体</option>
+					<option value="http://www.gongkong.com">用户</option>
+				</select>
+				<select onchange="window.location=this.value">
+					<option value="">联盟成员</option>
+					<option value="http://www.gongkong.com">用户</option>
+				</select>
+				<select onchange="window.location=this.value">
+					<option value="">行业网站</option>
+					<option value="http://www.gongkong.com">用户</option>
+				</select>
+			</p>
+		</div>
+		<div class="infodiv2">
+			<a href="">网站首页</a>&nbsp;|&nbsp;<a href="" title="">联盟简介</a>&nbsp;|&nbsp;
+			<a href="">会员注册</a>&nbsp;|&nbsp;<a href="javascript:void(0)" onclick="SetHome(this,'http://www.gongkong.com');">设为首页</a>&nbsp;|&nbsp;<a href="javascript:void(0)" onclick="AddFavorite('我的网站',location.href)">加入收藏</a>
+		</div>
+		<p class="centerp">地址：北京市万寿路27号8号楼配楼3层   100823   电话/传真：010-68594830   E-mail:CRIA@mei.net.com</p>
+		<p class="centerp">版权所有：全国工业和信息化科技成果转化联盟    未经授权请勿转载</p>
+		<p class="centerp">技术支持：中国工控网</p>
+	</div>
+	<script type='text/javascript'>
+		//设为首页
+function SetHome(obj,url){
+    try{
+        obj.style.behavior='url(#default#homepage)';
+        obj.setHomePage(url);
+    }catch(e){
+        if(window.netscape){
+            try{
+                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+            }catch(e){
+                alert("抱歉，此操作被浏览器拒绝！\n\n请在浏览器地址栏输入“about:config”并回车然后将[signed.applets.codebase_principal_support]设置为'true'");
+            }
+        }else{
+            alert("抱歉，您所使用的浏览器无法完成此操作。\n\n您需要手动将【"+url+"】设置为首页。");
+        }
+    }
+}
+//收藏本站
+function AddFavorite(title, url) {
+    try {
+        window.external.addFavorite(url, title);
+    }
+    catch (e) {
+        try {
+            window.sidebar.addPanel(title, url, "");
+        }
+        catch (e) {
+            alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请使用Ctrl+D进行添加");
+        }
+    }
+}
+	</script>
+</body>
+</html>

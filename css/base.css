@@ -1,0 +1,34 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*重置*/
+*{ margin:0; padding:0;}
+a{ text-decoration:none; color:#666;}
+a:hover{color:#005bac; text-decoration:none;}
+img{ vertical-align:top; border:none;}
+li{ list-style:none;}
+/*input,textarea,select{ border:none; outline:none; background:none;}
+textarea{ resize:none;}*/
+/*重用*/
+body{color:#333; font-size:14px; font-family:'微软雅黑';}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after{ content:''; display:block; clear:both;}
+.warp{width:1140px; margin:0 auto;}
+.f999{ color:#999;}
+.f999 a{ text-decoration:none; color:#999;}
+.f999 a:hover{color:#e4393c; text-decoration:underline;}
+.fe4393c{color:#e4393c;}
+.fe4393c a{ text-decoration:none; color:#e4393c;}
+.fe4393c a:hover{color:#e4393c; text-decoration:underline;}
+.fff14{color:#fff; font-weight:bold; font-size:14px;}
+.fff14 a{text-decoration:none; color:#fff;}
+.fff14 a:hover{color:#fff; text-decoration:none;}
+.blue12{color:#005ea7;font-size:12px;}
+.blue12 a{text-decoration:none; color:#005ea7;}
+.blue12 a:hover{color:#e4393c; text-decoration:none;}
+.bt{color:#333;font-size:20px;}
+.bt a{text-decoration:none; color:red;}
+.bt a:hover{color:blue; text-decoration:none;}
+
+
+

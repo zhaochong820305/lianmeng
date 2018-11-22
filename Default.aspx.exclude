@@ -1,0 +1,141 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<%@ Register Src="~/include/header.ascx" TagPrefix="uc1" TagName="header" %>
+<%@ Register Src="~/include/footer.ascx" TagPrefix="uc1" TagName="footer" %>
+<%@ Register Src="~/include/menu.ascx" TagPrefix="uc1" TagName="menu" %>
+<%@ Register Src="~/include/left.ascx" TagPrefix="uc1" TagName="left" %>
+<!DOCTYPE html>
+<html lang="en">
+ <uc1:header runat="server" id="header" />
+    <body>
+         <uc1:menu runat="server" ID="menu" />
+	
+	<div class="con1">
+		<uc1:left runat="server" ID="left" />
+		<div class="con1mid">
+			<div class="swiper-container wrapperdiv">
+				<div class="swiper-wrapper">
+					<%=pic %>
+				</div>
+				<div class="swiper-pagination"></div>
+			</div>
+			<div id='tabcon'>
+				<ul class="titleli">
+					<li><a href="list.aspx?class=60&fl=11">联盟动态</a> </li>
+					<li><a href="list.aspx?class=61&fl=11">联盟公告</a></li>
+					<li><a href="list.aspx?class=62&fl=11">联盟活动</a></li>
+					<li><a href="list.aspx?class=60&fl=11">成员发布</a></li>
+				</ul>
+				<div class="ulcon">
+					<ul class="Ninul">		               
+		                <%=loadnr(60,60,10) %>
+				    </ul>
+				    <ul class="Ninul">
+		                <%=loadnr(61,60,10) %>
+				    </ul>
+				    <ul class="Ninul">
+		                <%=loadnr(62,60,10) %>
+				    </ul>
+				    <ul class="Ninul">
+		                <%=company(2, 34, 10) %>		                
+				    </ul>
+				</div> 
+			</div>
+		</div>
+		
+		<script type='text/javascript'>
+			var mySwiper = new Swiper('.wrapperdiv', {
+				pagination : '.swiper-pagination',
+				autoplay : 3000,
+	            loop : true,
+	            speed:800
+        	})
+        	$('.titleli li').mouseover(function() {
+        		var index = $(this).index();
+        		$(this).addClass('act').siblings('li').removeClass('act');
+        		$('.ulcon .Ninul').eq(index).addClass('act').siblings('.Ninul').removeClass('act');
+        	}).eq(0).mouseover()
+		</script>
+		<div class="con1right">
+			<h2><a href="list.aspx?class=63&fl=11">科技头条</a></h2>
+			<ul class="toutiao">			
+				<%=loadabout(63,34,10) %>				
+			</ul>
+			<h2 style="margin-top: 10px"><a href="list.aspx?class=63&fl=11">成员中心</a></h2>
+			<div class="hydiv">
+				<ul class="huiyuan">
+					 <%=companyimg(2,34,6) %>
+					
+				</ul>
+				<ul class="hy">
+					<%=company(2, 34, 4) %>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="con2"><a href=""><img src="images/3.jpg" alt=""></a></div>
+	<div class="con3">
+		<div class="con3left">
+			<div class="titp"><h3>科技成果评价</h3><a href="list.aspx?class=75&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">				 
+				<%=loadabout(75,50,5) %>	
+			</ul>
+		</div>
+		<div class="con3left t2mid">
+			<div class="titp"><h3>政策解析</h3><a href="list.aspx?class=76&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<%=loadabout(76,50,5) %>	
+			</ul>
+		</div>
+		<div class="con3right">
+			<div class="titp"><h3>行业专家</h3><a href="listzj.aspx?class=46&fl=4" class="more">更多></a></div>
+			<ul class="toutiao t2ul ulimg">
+				<%=zhuanjia(0,50,2) %>
+			</ul>
+		</div>
+	</div>
+	<div class="con3">
+		<div class="con3left">
+			<div class="titp"><h3>制造业创新中心</h3><a href="list.aspx?class=77&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<%=loadabout(77,50,5) %>	
+			</ul>
+		</div>
+		<div class="con3left t2mid">
+			<div class="titp"><h3>产业创新服务</h3><a href="list.aspx?class=78&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<%=loadabout(78,50,5) %>	
+			</ul>
+		</div>
+		<div class="con3right">
+			<div class="titp"><h3>专家观点</h3><a href="" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				 <%=loadabout(82,32,5) %>	
+			</ul>
+		</div>
+	</div>
+	<div class="con2"><a href=""><img src="images/5.jpg" alt=""></a><a href=""><img src="images/6.jpg" style="float: right"></a></div>
+	<div class="con3 con5" style="margin-top:0">
+		<div class="con5left">
+			<div class="titp"><h3>科技成果转化基地</h3><a href="list.aspx?class=79&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<%=loadabout(79,52,5) %>	
+			</ul>
+		</div>
+		<div class="con5left t5mid">
+			<div class="titp"><h3>政策大讲堂</h3><a href="list.aspx?class=80&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<%=loadabout(80,48,5) %>	
+			</ul>
+		</div>
+		<div class="con5right">
+			<div class="titp"><h3>创新创业大赛</h3><a href="list.aspx?class=81&fl=13" class="more">更多></a></div>
+			<ul class="toutiao t2ul">
+				<%=loadabout(81,48,5) %>	
+			</ul>
+		</div>
+	</div>
+	    <uc1:footer runat="server" id="footer" />
+</body>
+</html>

@@ -1,0 +1,43 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="listzj.aspx.cs" Inherits="listzj" %>
+
+<%@ Register Src="~/include/header.ascx" TagPrefix="uc1" TagName="header" %>
+<%@ Register Src="~/include/footer.ascx" TagPrefix="uc1" TagName="footer" %>
+<%@ Register Src="~/include/menu.ascx" TagPrefix="uc1" TagName="menu" %>
+<%@ Register Src="~/include/left.ascx" TagPrefix="uc1" TagName="left" %>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<uc1:header runat="server" id="header" />
+<body>
+    <uc1:menu runat="server" ID="menu" />
+<!--内容-->
+<!--con-->
+<div class="con1">
+       <uc1:left runat="server" ID="left" />
+
+    <div class="conn">
+        <div class="conn-top">
+            <div class="conn-top-title1"><%=classname %></div>
+            <div class="conn-top-title2">&nbsp;<%=classname %></div>
+            <div class="conn-top-title3">您当前的位置：&nbsp;></div>
+        </div>
+       <div class="conn-con">
+            <div class="conn-con-c">
+            	<div class="zuzhang clear">
+                	<%=zzinfo %>
+                </div>
+                <table class="plzj" cellspacing="30px">
+                	<%=content %>
+                </table>
+               <!-- <div class="yema">
+                	<a href="#">&lt;&lt;</a><a href="#">1</a><a href="#">2</a><a href="#">3</a><a href="#">&gt;&gt;</a>
+            	</div>-->
+            </div>
+        </div>
+    </div>
+    </div>
+    <uc1:footer runat="server" id="footer" />
+</body>
+</html>
